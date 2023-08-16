@@ -16,12 +16,12 @@ Thanks to the project I learn about made regression
 models and about filling NaN values.
 
 ## Database
-In the project I worked with the **TODO** database.
+In the project I worked with the California Housing Prices database.
 Project's goal was prediction of mean value of 
 houses in area.
 
 **Link to database:**
-**TODO**
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 ## Results
 
